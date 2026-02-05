@@ -25,7 +25,7 @@ Humanoid robots can suffer significant performance drops under small changes in 
 
 - **Project Page**: [https://tonywang-0517.github.io/hord/](https://tonywang-0517.github.io/hord/)
 - **GitHub Repository**: [https://github.com/tonywang-0517/hord](https://github.com/tonywang-0517/hord)
-- **Paper**: [Coming soon]
+- **Paper**: [arXiv:2602.04412](https://arxiv.org/abs/2602.04412)
 - **Video**: [YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) (Coming soon)
 
 ## Project Structure
